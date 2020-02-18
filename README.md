@@ -57,7 +57,7 @@
 | :-: | :-: | :-: | :-: |
 | [Here_you_are](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Reverse/Here_you_are) |  100  | [github](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Reverse/Here_you_are/solution/SOLUTION.md) |               OtterV                |
 | [rome](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Reverse/rome) |  100  | [github](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Reverse/rome/solution/solution.md) | [jj0nak](https://jj0nak.github.io/) |
-|                             game                             |  100  | [github](https://github.com/Palmer0801/CTF_challenges_myself/blob/master/CTF_Reverse/ACTF_Junior_2020/tea/solution/tea_wp.md) |               [Palmer](https://palmer0801.github.io/)               |
+|                             [game](https://github.com/Palmer0801/CTF_challenges_myself/blob/master/CTF_Reverse/ACTF_Junior_2020/game)                             |  100  | [github](https://github.com/Palmer0801/CTF_challenges_myself/blob/master/CTF_Reverse/ACTF_Junior_2020/game/solution/game_wp.md) |               [Palmer](https://palmer0801.github.io/)               |
 | [easyre](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Reverse/easyre) |  200  | [github](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Reverse/easyre/solution/solution.md) | [jj0nak](https://jj0nak.github.io/) |
 |                          [usualCrypt](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Reverse/usualCrypt)                          |  100  | [github](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Reverse/usualCrypt/solution/SOLUTION.md) |               hefeng                |
 | [SoulLike](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Reverse/SoulLike) |  200  | [github](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Reverse/SoulLike/solution/solve.md) |  [timelooper](http://49.234.62.86)  |
@@ -66,7 +66,7 @@
 | [Oruga](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Reverse/Oruga) |  100  | [github](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Reverse/Oruga/solution/solve.md) |  [timelooper](http://49.234.62.86)  |
 | [fungame](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Reverse/fungame) |  300  | [github](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Reverse/fungame/solution/solution.md) | [jj0nak](https://jj0nak.github.io/) |
 | [ding](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Reverse/Ding!) |  250  | [github](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Reverse/Ding!/solution/SOLUTION.md) |               OtterV                |
-|                             tea                             |  300  | [github](https://github.com/Palmer0801/CTF_challenges_myself/blob/master/CTF_Reverse/ACTF_Junior_2020/game/solution/game_wp.md) |               [Palmer](https://palmer0801.github.io/)               |
+|                             [tea](https://github.com/Palmer0801/CTF_challenges_myself/blob/master/CTF_Reverse/ACTF_Junior_2020/tea)                             |  300  | [github](https://github.com/Palmer0801/CTF_challenges_myself/blob/master/CTF_Reverse/ACTF_Junior_2020/tea/solution/tea_wp.md) |               [Palmer](https://palmer0801.github.io/)               |
 
 
 
