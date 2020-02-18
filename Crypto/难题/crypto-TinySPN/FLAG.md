@@ -1,0 +1,1 @@
+flag{simple_SPN_made_life_easier}

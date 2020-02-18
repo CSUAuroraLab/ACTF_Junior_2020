@@ -1,0 +1,10 @@
+version: '3'
+services:
+ php:
+   image: mattrayner/lamp:latest-1604-php7
+   volumes:
+    - ./www:/var/www/html
+    - ./clean.sh:/clean.sh
+    - ./flag:/flag
+   ports:
+    - "40001:80"

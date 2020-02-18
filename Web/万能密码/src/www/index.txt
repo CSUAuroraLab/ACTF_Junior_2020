@@ -1,0 +1,3 @@
+$username = $_POST[username];
+$passwd = md5($_POST[passwd]);
+$sql = "select username from users where (username='$username') and (pw='$passwd')";

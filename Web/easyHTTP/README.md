@@ -1,0 +1,1 @@
+考察http协议的相关知识，考察了post get的使用， cookie值的设置，ip的设置

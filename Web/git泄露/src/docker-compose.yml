@@ -1,0 +1,8 @@
+version: '2'
+services:
+ actfgit:
+   image: mattrayner/lamp:latest
+   volumes:
+    - ./www/:/var/www/html/
+   ports:
+    - "29014:80"
