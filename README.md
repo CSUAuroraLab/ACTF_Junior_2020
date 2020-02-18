@@ -8,7 +8,7 @@
 ## Crypto
 
 | Name                                                         | Value | Writeup                                                      | Author                                              |
-| ------------------------------------------------------------ | ----- | ------------------------------------------------------------ | --------------------------------------------------- |
+| :-: | :-: | :-: | :-: |
 | [classic0](https://github.com/CSUAuroraLab/ACTF_Junior_2020//tree/master/Crypto/简单题/crypto-classic0/) | 100   | [github](https://github.com/CSUAuroraLab/ACTF_Junior_2020//tree/master/Crypto/简单题/crypto-classic0/sol.md)/[blog]([https://life-extension.github.io/2020/02/16/ACTF%E6%96%B0%E4%BA%BA%E8%B5%9B%E5%AF%86%E7%A0%81%E5%AD%A6%E9%83%A8%E5%88%86wp/](https://life-extension.github.io/2020/02/16/ACTF新人赛密码学部分wp/)) | [life-extension](https://life-extension.github.io/) |
 | [classic1](https://github.com/CSUAuroraLab/ACTF_Junior_2020//tree/master/Crypto/简单题/crypto-classic1/) | 100   | [github](https://github.com/CSUAuroraLab/ACTF_Junior_2020//tree/master/Crypto/简单题/crypto-classic0/sol.md)/[blog]([https://life-extension.github.io/2020/02/16/ACTF%E6%96%B0%E4%BA%BA%E8%B5%9B%E5%AF%86%E7%A0%81%E5%AD%A6%E9%83%A8%E5%88%86wp/](https://life-extension.github.io/2020/02/16/ACTF新人赛密码学部分wp/)) | [life-extension](https://life-extension.github.io/) |
 | [des_mailbox](https://github.com/CSUAuroraLab/ACTF_Junior_2020//tree/master/Crypto/简单题/crypto-des/) | 100   | [github](https://github.com/CSUAuroraLab/ACTF_Junior_2020//tree/master/Crypto/简单题/crypto-des/sol.md)/[blog]([https://life-extension.github.io/2020/02/16/ACTF%E6%96%B0%E4%BA%BA%E8%B5%9B%E5%AF%86%E7%A0%81%E5%AD%A6%E9%83%A8%E5%88%86wp/](https://life-extension.github.io/2020/02/16/ACTF新人赛密码学部分wp/)) | [life-extension](https://life-extension.github.io/) |
@@ -22,7 +22,7 @@
 ## Misc
 
 | Name                                                         | Value | Writeup                                                      | Author                                       |
-| ------------------------------------------------------------ | ----- | ------------------------------------------------------------ | -------------------------------------------- |
+| :-: | :-: | :-: | :-: |
 | [白给](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Misc/base64隐写) | 100   | [github](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Misc/base64隐写/solution/solution.docx) | [warning](https://blog.csdn.net/destiny1507) |
 | [frequency](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Misc/frequency/) | 100   | [github](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Misc/frequency/solution/wp.md) | [mitu9527](https://github.com/mitu9527)      |
 | [Music for free](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Misc/music) | 100   | [github](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Misc/music/solution/wp.md) | [mitu9527](https://github.com/mitu9527)      |
@@ -38,42 +38,42 @@
 
 ## Pwn
 
-| Name                                                         | Value | Writeup                                                      | Author                                      |
-| ------------------------------------------------------------ | ----- | ------------------------------------------------------------ | ------------------------------------------- |
-| [simple_rop](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Pwn/simple_rop) | 100   | [github](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Pwn/2020ACTF%20PWN-WP.md) | [treebacker](https://treebacker.github.io/) |
-| [shellcode](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Pwn/shellcode) | 100   | [github](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Pwn/2020ACTF%20PWN-WP.md) | [treebacker](https://treebacker.github.io/) |
-| [fmt64](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Pwn/fmt_hard) | 300   | [github](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Pwn/2020ACTF%20PWN-WP.md) | [treebacker](https://treebacker.github.io/) |
-| [fmt32](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Pwn/fmt_easy) | 200   | [github](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Pwn/2020ACTF%20PWN-WP.md) | [treebacker](https://treebacker.github.io/) |
-| [chk_rop](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Pwn/Check_rop) | 200   | [github](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Pwn/2020ACTF%20PWN-WP.md) | [treebacker](https://treebacker.github.io/) |
-| [Complaint](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Pwn/Complaint) | 200   | [github](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Pwn/2020ACTF%20PWN-WP.md) | [treebacker](https://treebacker.github.io/) |
-| SCP_Foundation_Secret                                        | 300   |                                                              | ERROR404                                    |
-| SCP_Foundation_Attack                                        | 300   |                                                              | ERROR404                                    |
+|                             Name                             | Value |                           Writeup                            |                   Author                    |
+| :-: | :-: | :-: | :-: |
+| [simple_rop](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Pwn/simple_rop) |  100  | [github](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Pwn/2020ACTF%20PWN-WP.md) | [treebacker](https://treebacker.github.io/) |
+| [shellcode](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Pwn/shellcode) |  100  | [github](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Pwn/2020ACTF%20PWN-WP.md) | [treebacker](https://treebacker.github.io/) |
+| [fmt64](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Pwn/fmt_hard) |  300  | [github](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Pwn/2020ACTF%20PWN-WP.md) | [treebacker](https://treebacker.github.io/) |
+| [fmt32](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Pwn/fmt_easy) |  200  | [github](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Pwn/2020ACTF%20PWN-WP.md) | [treebacker](https://treebacker.github.io/) |
+| [chk_rop](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Pwn/Check_rop) |  200  | [github](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Pwn/2020ACTF%20PWN-WP.md) | [treebacker](https://treebacker.github.io/) |
+| [Complaint](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Pwn/Complaint) |  200  | [github](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Pwn/2020ACTF%20PWN-WP.md) | [treebacker](https://treebacker.github.io/) |
+|                    SCP_Foundation_Secret                     |  300  |                                                              |                  ERROR404                   |
+|                    SCP_Foundation_Attack                     |  300  |                                                              |                  ERROR404                   |
 
 
 
 ## Reverse
 
-| Name                                                         | Value | Writeup                                                      | Author                              |
-| ------------------------------------------------------------ | ----- | ------------------------------------------------------------ | ----------------------------------- |
-| [Here_you_are](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Reverse/Here_you_are) | 100   | [github](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Reverse/Here_you_are/solution/SOLUTION.md) | OtterV                              |
-| [rome](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Reverse/rome) | 100   | [github](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Reverse/rome/solution/solution.md) | [jj0nak](https://jj0nak.github.io/) |
-| game                                                         | 100   |                                                              | Palmer                              |
-| [easyre](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Reverse/easyre) | 200   | [github](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Reverse/easyre/solution/solution.md) | [jj0nak](https://jj0nak.github.io/) |
-| usualCrypt                                                   | 100   |                                                              | hefeng                              |
-| [SoulLike](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Reverse/SoulLike) | 200   | [github](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Reverse/SoulLike/solution/solve.md) | [timelooper](http://49.234.62.86)   |
-| [Splendid_MineCraft](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Reverse/Splendid_MineCraft) | 200   | [github](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Reverse/Splendid_MineCraft/solution/SOLUTION.md) | OtterV                              |
-| [Universe_final_answer](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Reverse/Universe_final_answer) | 300   | [github](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Reverse/Universe_final_answer/solution/solve.md) | [timelooper](http://49.234.62.86)   |
-| [Oruga](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Reverse/Oruga) | 100   | [github](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Reverse/Oruga/solution/solve.md) | [timelooper](http://49.234.62.86)   |
-| [fungame](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Reverse/fungame) | 300   | [github](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Reverse/fungame/solution/solution.md) | [jj0nak](https://jj0nak.github.io/) |
-| [ding](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Reverse/Ding!) | 250   | [github](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Reverse/Ding!/solution/SOLUTION.md) | OtterV                              |
-| tea                                                          | 300   |                                                              | Palmer                              |
+|                             Name                             | Value |                           Writeup                            |               Author                |
+| :-: | :-: | :-: | :-: |
+| [Here_you_are](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Reverse/Here_you_are) |  100  | [github](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Reverse/Here_you_are/solution/SOLUTION.md) |               OtterV                |
+| [rome](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Reverse/rome) |  100  | [github](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Reverse/rome/solution/solution.md) | [jj0nak](https://jj0nak.github.io/) |
+|                             game                             |  100  |                                                              |               Palmer                |
+| [easyre](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Reverse/easyre) |  200  | [github](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Reverse/easyre/solution/solution.md) | [jj0nak](https://jj0nak.github.io/) |
+|                          usualCrypt                          |  100  |                                                              |               hefeng                |
+| [SoulLike](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Reverse/SoulLike) |  200  | [github](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Reverse/SoulLike/solution/solve.md) |  [timelooper](http://49.234.62.86)  |
+| [Splendid_MineCraft](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Reverse/Splendid_MineCraft) |  200  | [github](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Reverse/Splendid_MineCraft/solution/SOLUTION.md) |               OtterV                |
+| [Universe_final_answer](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Reverse/Universe_final_answer) |  300  | [github](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Reverse/Universe_final_answer/solution/solution.md) |  [timelooper](http://49.234.62.86)  |
+| [Oruga](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Reverse/Oruga) |  100  | [github](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Reverse/Oruga/solution/solve.md) |  [timelooper](http://49.234.62.86)  |
+| [fungame](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Reverse/fungame) |  300  | [github](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Reverse/fungame/solution/solution.md) | [jj0nak](https://jj0nak.github.io/) |
+| [ding](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Reverse/Ding!) |  250  | [github](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Reverse/Ding!/solution/SOLUTION.md) |               OtterV                |
+|                             tea                              |  300  |                                                              |               Palmer                |
 
 
 
 ## Web
 
 | Name                                                         | Value | Writeup                                                      | Author                                 |
-| ------------------------------------------------------------ | ----- | ------------------------------------------------------------ | -------------------------------------- |
+| :-: | :-: | :-: | :-: |
 | [universal_sql](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Web/万能密码) | 100   | [github](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Web/万能密码/solution/exp.txt) | [FengHLZ](https://www.fenghlz.xyz/)    |
 | [babysql](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Web/babysql) | 200   | [github](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Web/babysql/solution/exp.txt) | [FengHLZ](https://www.fenghlz.xyz/)    |
 | [whats git](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Web/git泄露) | 200   | [github](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Web/git泄露/solution/exp.txt) | [FengHLZ](https://www.fenghlz.xyz/)    |
