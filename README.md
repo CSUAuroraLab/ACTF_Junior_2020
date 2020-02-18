@@ -40,14 +40,14 @@
 
 |                             Name                             | Value |                           Writeup                            |                   Author                    |
 | :-: | :-: | :-: | :-: |
-| [simple_rop](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Pwn/simple_rop) |  100  | [github](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Pwn/2020ACTF%20PWN-WP.md) | [treebacker](https://treebacker.github.io/) |
-| [shellcode](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Pwn/shellcode) |  100  | [github](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Pwn/2020ACTF%20PWN-WP.md) | [treebacker](https://treebacker.github.io/) |
-| [fmt64](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Pwn/fmt_hard) |  300  | [github](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Pwn/2020ACTF%20PWN-WP.md) | [treebacker](https://treebacker.github.io/) |
-| [fmt32](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Pwn/fmt_easy) |  200  | [github](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Pwn/2020ACTF%20PWN-WP.md) | [treebacker](https://treebacker.github.io/) |
-| [chk_rop](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Pwn/Check_rop) |  200  | [github](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Pwn/2020ACTF%20PWN-WP.md) | [treebacker](https://treebacker.github.io/) |
-| [Complaint](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Pwn/Complaint) |  200  | [github](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Pwn/2020ACTF%20PWN-WP.md) | [treebacker](https://treebacker.github.io/) |
-|                    SCP_Foundation_Secret                     |  300  |                                                              |                  ERROR404                   |
-|                    SCP_Foundation_Attack                     |  300  |                                                              |                  ERROR404                   |
+| [simple_rop](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Pwn/simple_rop) |  100  | [github](https://github.com/CSUAuroraLab/ACTF_Junior_2020/blob/master/Pwn/2020ACTF%20%20%20PWN-WP.md) | [treebacker](https://treebacker.github.io/) |
+| [shellcode](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Pwn/shellcode) |  100  | [github](https://github.com/CSUAuroraLab/ACTF_Junior_2020/blob/master/Pwn/2020ACTF%20%20%20PWN-WP.md) | [treebacker](https://treebacker.github.io/) |
+| [fmt64](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Pwn/fmt_hard) |  300  | [github](https://github.com/CSUAuroraLab/ACTF_Junior_2020/blob/master/Pwn/2020ACTF%20%20%20PWN-WP.md) | [treebacker](https://treebacker.github.io/) |
+| [fmt32](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Pwn/fmt_easy) |  200  | [github](https://github.com/CSUAuroraLab/ACTF_Junior_2020/blob/master/Pwn/2020ACTF%20%20%20PWN-WP.md) | [treebacker](https://treebacker.github.io/) |
+| [chk_rop](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Pwn/Check_rop) |  200  | [github](https://github.com/CSUAuroraLab/ACTF_Junior_2020/blob/master/Pwn/2020ACTF%20%20%20PWN-WP.md) | [treebacker](https://treebacker.github.io/) |
+| [Complaint](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Pwn/Complaint) |  200  | [github](https://github.com/CSUAuroraLab/ACTF_Junior_2020/blob/master/Pwn/2020ACTF%20%20%20PWN-WP.md) | [treebacker](https://treebacker.github.io/) |
+|                    [SCP_Foundation_Secret](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Pwn/SCP_Foundation_Secret)                    |  300  | [github](https://github.com/CSUAuroraLab/ACTF_Junior_2020/blob/master/Pwn/2020ACTF%20%20%20PWN-WP.md) |                  [ERROR404](https://www.lhyerror404.cn/)                  |
+|                    [SCP_Foundation_Attack](https://github.com/CSUAuroraLab/ACTF_Junior_2020/tree/master/Pwn/SCP_Foundation_Attack)                    |  300  | [github](https://github.com/CSUAuroraLab/ACTF_Junior_2020/blob/master/Pwn/2020ACTF%20%20%20PWN-WP.md) |                  [ERROR404](https://www.lhyerror404.cn/)                  |
 
 
 
